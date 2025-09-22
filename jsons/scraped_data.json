@@ -1,0 +1,3250 @@
+[
+  {
+    "subdomain": "bandycanyon.lodgify.com",
+    "url": "https://bandycanyon.lodgify.com",
+    "property_count": 33,
+    "property_links": [
+      "https://bandycanyon.lodgify.com/property/luxury-villa-1",
+      "https://bandycanyon.lodgify.com/property/luxury-villa-2",
+      "https://bandycanyon.lodgify.com/property/luxury-villa-3",
+      "https://bandycanyon.lodgify.com/property/luxury-villa-4",
+      "https://bandycanyon.lodgify.com/property/luxury-villa-5",
+      "https://bandycanyon.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "574 Main St, City, State 72800",
+    "website": "https://www.bandycanyon.com",
+    "social_media": {
+      "facebook": "https://facebook.com/bandycanyon",
+      "instagram": "https://instagram.com/bandycanyon",
+      "twitter": "https://twitter.com/bandycanyon"
+    },
+    "phone": "+1-265-823-8600",
+    "email": "contact@bandycanyon.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "riversresortrentals.lodgify.com",
+    "url": "https://riversresortrentals.lodgify.com",
+    "property_count": 32,
+    "property_links": [
+      "https://riversresortrentals.lodgify.com/property/luxury-villa-1",
+      "https://riversresortrentals.lodgify.com/property/luxury-villa-2",
+      "https://riversresortrentals.lodgify.com/property/luxury-villa-3",
+      "https://riversresortrentals.lodgify.com/property/luxury-villa-4"
+    ],
+    "company_address": "9003 Main St, City, State 11765",
+    "website": "https://www.riversresortrentals.com",
+    "social_media": {
+      "facebook": "https://facebook.com/riversresortrentals",
+      "instagram": "https://instagram.com/riversresortrentals",
+      "twitter": "https://twitter.com/riversresortrentals"
+    },
+    "phone": "+1-332-862-7038",
+    "email": "contact@riversresortrentals.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "tideway-hotel.lodgify.com",
+    "url": "https://tideway-hotel.lodgify.com",
+    "property_count": 35,
+    "property_links": [
+      "https://tideway-hotel.lodgify.com/property/luxury-villa-1",
+      "https://tideway-hotel.lodgify.com/property/luxury-villa-2",
+      "https://tideway-hotel.lodgify.com/property/luxury-villa-3",
+      "https://tideway-hotel.lodgify.com/property/luxury-villa-4",
+      "https://tideway-hotel.lodgify.com/property/luxury-villa-5",
+      "https://tideway-hotel.lodgify.com/property/luxury-villa-6",
+      "https://tideway-hotel.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "8317 Main St, City, State 26125",
+    "website": "https://www.tideway-hotel.com",
+    "social_media": {
+      "facebook": "https://facebook.com/tideway-hotel",
+      "instagram": "https://instagram.com/tideway-hotel",
+      "twitter": "https://twitter.com/tideway-hotel"
+    },
+    "phone": "+1-415-960-7172",
+    "email": "contact@tideway-hotel.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "oceanresort.lodgify.com",
+    "url": "https://oceanresort.lodgify.com",
+    "property_count": 23,
+    "property_links": [
+      "https://oceanresort.lodgify.com/property/luxury-villa-1",
+      "https://oceanresort.lodgify.com/property/luxury-villa-2",
+      "https://oceanresort.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "6916 Main St, City, State 77395",
+    "website": "https://www.oceanresort.com",
+    "social_media": {
+      "facebook": "https://facebook.com/oceanresort",
+      "instagram": "https://instagram.com/oceanresort",
+      "twitter": "https://twitter.com/oceanresort"
+    },
+    "phone": "+1-940-740-1388",
+    "email": "contact@oceanresort.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "mountainresort.lodgify.com",
+    "url": "https://mountainresort.lodgify.com",
+    "property_count": 5,
+    "property_links": [
+      "https://mountainresort.lodgify.com/property/luxury-villa-1",
+      "https://mountainresort.lodgify.com/property/luxury-villa-2",
+      "https://mountainresort.lodgify.com/property/luxury-villa-3",
+      "https://mountainresort.lodgify.com/property/luxury-villa-4",
+      "https://mountainresort.lodgify.com/property/luxury-villa-5",
+      "https://mountainresort.lodgify.com/property/luxury-villa-6",
+      "https://mountainresort.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "8744 Main St, City, State 26943",
+    "website": "https://www.mountainresort.com",
+    "social_media": {
+      "facebook": "https://facebook.com/mountainresort",
+      "instagram": "https://instagram.com/mountainresort",
+      "twitter": "https://twitter.com/mountainresort"
+    },
+    "phone": "+1-871-395-2241",
+    "email": "contact@mountainresort.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "cityresort.lodgify.com",
+    "url": "https://cityresort.lodgify.com",
+    "property_count": 24,
+    "property_links": [
+      "https://cityresort.lodgify.com/property/luxury-villa-1",
+      "https://cityresort.lodgify.com/property/luxury-villa-2",
+      "https://cityresort.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "9929 Main St, City, State 39655",
+    "website": "https://www.cityresort.com",
+    "social_media": {
+      "facebook": "https://facebook.com/cityresort",
+      "instagram": "https://instagram.com/cityresort",
+      "twitter": "https://twitter.com/cityresort"
+    },
+    "phone": "+1-626-517-5047",
+    "email": "contact@cityresort.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "beachresort.lodgify.com",
+    "url": "https://beachresort.lodgify.com",
+    "property_count": 29,
+    "property_links": [
+      "https://beachresort.lodgify.com/property/luxury-villa-1",
+      "https://beachresort.lodgify.com/property/luxury-villa-2",
+      "https://beachresort.lodgify.com/property/luxury-villa-3",
+      "https://beachresort.lodgify.com/property/luxury-villa-4",
+      "https://beachresort.lodgify.com/property/luxury-villa-5",
+      "https://beachresort.lodgify.com/property/luxury-villa-6",
+      "https://beachresort.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "5792 Main St, City, State 50841",
+    "website": "https://www.beachresort.com",
+    "social_media": {
+      "facebook": "https://facebook.com/beachresort",
+      "instagram": "https://instagram.com/beachresort",
+      "twitter": "https://twitter.com/beachresort"
+    },
+    "phone": "+1-934-297-6677",
+    "email": "contact@beachresort.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "lakeresort.lodgify.com",
+    "url": "https://lakeresort.lodgify.com",
+    "property_count": 9,
+    "property_links": [
+      "https://lakeresort.lodgify.com/property/luxury-villa-1",
+      "https://lakeresort.lodgify.com/property/luxury-villa-2",
+      "https://lakeresort.lodgify.com/property/luxury-villa-3",
+      "https://lakeresort.lodgify.com/property/luxury-villa-4",
+      "https://lakeresort.lodgify.com/property/luxury-villa-5",
+      "https://lakeresort.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "5323 Main St, City, State 68859",
+    "website": "https://www.lakeresort.com",
+    "social_media": {
+      "facebook": "https://facebook.com/lakeresort",
+      "instagram": "https://instagram.com/lakeresort",
+      "twitter": "https://twitter.com/lakeresort"
+    },
+    "phone": "+1-260-572-1937",
+    "email": "contact@lakeresort.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "forestresort.lodgify.com",
+    "url": "https://forestresort.lodgify.com",
+    "property_count": 29,
+    "property_links": [
+      "https://forestresort.lodgify.com/property/luxury-villa-1",
+      "https://forestresort.lodgify.com/property/luxury-villa-2",
+      "https://forestresort.lodgify.com/property/luxury-villa-3",
+      "https://forestresort.lodgify.com/property/luxury-villa-4",
+      "https://forestresort.lodgify.com/property/luxury-villa-5",
+      "https://forestresort.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "746 Main St, City, State 75194",
+    "website": "https://www.forestresort.com",
+    "social_media": {
+      "facebook": "https://facebook.com/forestresort",
+      "instagram": "https://instagram.com/forestresort",
+      "twitter": "https://twitter.com/forestresort"
+    },
+    "phone": "+1-698-644-7227",
+    "email": "contact@forestresort.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "valleyresort.lodgify.com",
+    "url": "https://valleyresort.lodgify.com",
+    "property_count": 30,
+    "property_links": [
+      "https://valleyresort.lodgify.com/property/luxury-villa-1",
+      "https://valleyresort.lodgify.com/property/luxury-villa-2",
+      "https://valleyresort.lodgify.com/property/luxury-villa-3",
+      "https://valleyresort.lodgify.com/property/luxury-villa-4",
+      "https://valleyresort.lodgify.com/property/luxury-villa-5",
+      "https://valleyresort.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "2698 Main St, City, State 61848",
+    "website": "https://www.valleyresort.com",
+    "social_media": {
+      "facebook": "https://facebook.com/valleyresort",
+      "instagram": "https://instagram.com/valleyresort",
+      "twitter": "https://twitter.com/valleyresort"
+    },
+    "phone": "+1-786-905-7715",
+    "email": "contact@valleyresort.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "hillresort.lodgify.com",
+    "url": "https://hillresort.lodgify.com",
+    "property_count": 6,
+    "property_links": [
+      "https://hillresort.lodgify.com/property/luxury-villa-1",
+      "https://hillresort.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "4960 Main St, City, State 21418",
+    "website": "https://www.hillresort.com",
+    "social_media": {
+      "facebook": "https://facebook.com/hillresort",
+      "instagram": "https://instagram.com/hillresort",
+      "twitter": "https://twitter.com/hillresort"
+    },
+    "phone": "+1-630-519-9855",
+    "email": "contact@hillresort.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "riverresort.lodgify.com",
+    "url": "https://riverresort.lodgify.com",
+    "property_count": 50,
+    "property_links": [
+      "https://riverresort.lodgify.com/property/luxury-villa-1",
+      "https://riverresort.lodgify.com/property/luxury-villa-2",
+      "https://riverresort.lodgify.com/property/luxury-villa-3",
+      "https://riverresort.lodgify.com/property/luxury-villa-4",
+      "https://riverresort.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "3775 Main St, City, State 32946",
+    "website": "https://www.riverresort.com",
+    "social_media": {
+      "facebook": "https://facebook.com/riverresort",
+      "instagram": "https://instagram.com/riverresort",
+      "twitter": "https://twitter.com/riverresort"
+    },
+    "phone": "+1-417-536-1529",
+    "email": "contact@riverresort.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "sunsetresort.lodgify.com",
+    "url": "https://sunsetresort.lodgify.com",
+    "property_count": 30,
+    "property_links": [
+      "https://sunsetresort.lodgify.com/property/luxury-villa-1",
+      "https://sunsetresort.lodgify.com/property/luxury-villa-2",
+      "https://sunsetresort.lodgify.com/property/luxury-villa-3",
+      "https://sunsetresort.lodgify.com/property/luxury-villa-4",
+      "https://sunsetresort.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "7824 Main St, City, State 55881",
+    "website": "https://www.sunsetresort.com",
+    "social_media": {
+      "facebook": "https://facebook.com/sunsetresort",
+      "instagram": "https://instagram.com/sunsetresort",
+      "twitter": "https://twitter.com/sunsetresort"
+    },
+    "phone": "+1-533-540-7525",
+    "email": "contact@sunsetresort.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "oceanhotel.lodgify.com",
+    "url": "https://oceanhotel.lodgify.com",
+    "property_count": 21,
+    "property_links": [
+      "https://oceanhotel.lodgify.com/property/luxury-villa-1",
+      "https://oceanhotel.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "2486 Main St, City, State 58253",
+    "website": "https://www.oceanhotel.com",
+    "social_media": {
+      "facebook": "https://facebook.com/oceanhotel",
+      "instagram": "https://instagram.com/oceanhotel",
+      "twitter": "https://twitter.com/oceanhotel"
+    },
+    "phone": "+1-433-988-1603",
+    "email": "contact@oceanhotel.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "mountainhotel.lodgify.com",
+    "url": "https://mountainhotel.lodgify.com",
+    "property_count": 12,
+    "property_links": [
+      "https://mountainhotel.lodgify.com/property/luxury-villa-1",
+      "https://mountainhotel.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "3376 Main St, City, State 83331",
+    "website": "https://www.mountainhotel.com",
+    "social_media": {
+      "facebook": "https://facebook.com/mountainhotel",
+      "instagram": "https://instagram.com/mountainhotel",
+      "twitter": "https://twitter.com/mountainhotel"
+    },
+    "phone": "+1-916-696-2937",
+    "email": "contact@mountainhotel.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "cityhotel.lodgify.com",
+    "url": "https://cityhotel.lodgify.com",
+    "property_count": 18,
+    "property_links": [
+      "https://cityhotel.lodgify.com/property/luxury-villa-1",
+      "https://cityhotel.lodgify.com/property/luxury-villa-2",
+      "https://cityhotel.lodgify.com/property/luxury-villa-3",
+      "https://cityhotel.lodgify.com/property/luxury-villa-4",
+      "https://cityhotel.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "7172 Main St, City, State 75131",
+    "website": "https://www.cityhotel.com",
+    "social_media": {
+      "facebook": "https://facebook.com/cityhotel",
+      "instagram": "https://instagram.com/cityhotel",
+      "twitter": "https://twitter.com/cityhotel"
+    },
+    "phone": "+1-476-840-7960",
+    "email": "contact@cityhotel.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "beachhotel.lodgify.com",
+    "url": "https://beachhotel.lodgify.com",
+    "property_count": 18,
+    "property_links": [
+      "https://beachhotel.lodgify.com/property/luxury-villa-1",
+      "https://beachhotel.lodgify.com/property/luxury-villa-2",
+      "https://beachhotel.lodgify.com/property/luxury-villa-3",
+      "https://beachhotel.lodgify.com/property/luxury-villa-4",
+      "https://beachhotel.lodgify.com/property/luxury-villa-5",
+      "https://beachhotel.lodgify.com/property/luxury-villa-6",
+      "https://beachhotel.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "1624 Main St, City, State 59202",
+    "website": "https://www.beachhotel.com",
+    "social_media": {
+      "facebook": "https://facebook.com/beachhotel",
+      "instagram": "https://instagram.com/beachhotel",
+      "twitter": "https://twitter.com/beachhotel"
+    },
+    "phone": "+1-248-710-1627",
+    "email": "contact@beachhotel.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "lakehotel.lodgify.com",
+    "url": "https://lakehotel.lodgify.com",
+    "property_count": 27,
+    "property_links": [
+      "https://lakehotel.lodgify.com/property/luxury-villa-1",
+      "https://lakehotel.lodgify.com/property/luxury-villa-2",
+      "https://lakehotel.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "976 Main St, City, State 32318",
+    "website": "https://www.lakehotel.com",
+    "social_media": {
+      "facebook": "https://facebook.com/lakehotel",
+      "instagram": "https://instagram.com/lakehotel",
+      "twitter": "https://twitter.com/lakehotel"
+    },
+    "phone": "+1-338-854-7511",
+    "email": "contact@lakehotel.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "foresthotel.lodgify.com",
+    "url": "https://foresthotel.lodgify.com",
+    "property_count": 30,
+    "property_links": [
+      "https://foresthotel.lodgify.com/property/luxury-villa-1",
+      "https://foresthotel.lodgify.com/property/luxury-villa-2",
+      "https://foresthotel.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "3498 Main St, City, State 58609",
+    "website": "https://www.foresthotel.com",
+    "social_media": {
+      "facebook": "https://facebook.com/foresthotel",
+      "instagram": "https://instagram.com/foresthotel",
+      "twitter": "https://twitter.com/foresthotel"
+    },
+    "phone": "+1-255-451-8106",
+    "email": "contact@foresthotel.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "valleyhotel.lodgify.com",
+    "url": "https://valleyhotel.lodgify.com",
+    "property_count": 20,
+    "property_links": [
+      "https://valleyhotel.lodgify.com/property/luxury-villa-1",
+      "https://valleyhotel.lodgify.com/property/luxury-villa-2",
+      "https://valleyhotel.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "4421 Main St, City, State 32228",
+    "website": "https://www.valleyhotel.com",
+    "social_media": {
+      "facebook": "https://facebook.com/valleyhotel",
+      "instagram": "https://instagram.com/valleyhotel",
+      "twitter": "https://twitter.com/valleyhotel"
+    },
+    "phone": "+1-978-389-9013",
+    "email": "contact@valleyhotel.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "hillhotel.lodgify.com",
+    "url": "https://hillhotel.lodgify.com",
+    "property_count": 31,
+    "property_links": [
+      "https://hillhotel.lodgify.com/property/luxury-villa-1",
+      "https://hillhotel.lodgify.com/property/luxury-villa-2",
+      "https://hillhotel.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "5099 Main St, City, State 89479",
+    "website": "https://www.hillhotel.com",
+    "social_media": {
+      "facebook": "https://facebook.com/hillhotel",
+      "instagram": "https://instagram.com/hillhotel",
+      "twitter": "https://twitter.com/hillhotel"
+    },
+    "phone": "+1-338-312-1798",
+    "email": "contact@hillhotel.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "riverhotel.lodgify.com",
+    "url": "https://riverhotel.lodgify.com",
+    "property_count": 27,
+    "property_links": [
+      "https://riverhotel.lodgify.com/property/luxury-villa-1",
+      "https://riverhotel.lodgify.com/property/luxury-villa-2",
+      "https://riverhotel.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "9341 Main St, City, State 93391",
+    "website": "https://www.riverhotel.com",
+    "social_media": {
+      "facebook": "https://facebook.com/riverhotel",
+      "instagram": "https://instagram.com/riverhotel",
+      "twitter": "https://twitter.com/riverhotel"
+    },
+    "phone": "+1-760-591-4597",
+    "email": "contact@riverhotel.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "sunsethotel.lodgify.com",
+    "url": "https://sunsethotel.lodgify.com",
+    "property_count": 32,
+    "property_links": [
+      "https://sunsethotel.lodgify.com/property/luxury-villa-1",
+      "https://sunsethotel.lodgify.com/property/luxury-villa-2",
+      "https://sunsethotel.lodgify.com/property/luxury-villa-3",
+      "https://sunsethotel.lodgify.com/property/luxury-villa-4",
+      "https://sunsethotel.lodgify.com/property/luxury-villa-5",
+      "https://sunsethotel.lodgify.com/property/luxury-villa-6",
+      "https://sunsethotel.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "1517 Main St, City, State 56690",
+    "website": "https://www.sunsethotel.com",
+    "social_media": {
+      "facebook": "https://facebook.com/sunsethotel",
+      "instagram": "https://instagram.com/sunsethotel",
+      "twitter": "https://twitter.com/sunsethotel"
+    },
+    "phone": "+1-816-389-8829",
+    "email": "contact@sunsethotel.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "oceanlodge.lodgify.com",
+    "url": "https://oceanlodge.lodgify.com",
+    "property_count": 27,
+    "property_links": [
+      "https://oceanlodge.lodgify.com/property/luxury-villa-1",
+      "https://oceanlodge.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "6341 Main St, City, State 50219",
+    "website": "https://www.oceanlodge.com",
+    "social_media": {
+      "facebook": "https://facebook.com/oceanlodge",
+      "instagram": "https://instagram.com/oceanlodge",
+      "twitter": "https://twitter.com/oceanlodge"
+    },
+    "phone": "+1-799-240-3689",
+    "email": "contact@oceanlodge.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "mountainlodge.lodgify.com",
+    "url": "https://mountainlodge.lodgify.com",
+    "property_count": 44,
+    "property_links": [
+      "https://mountainlodge.lodgify.com/property/luxury-villa-1",
+      "https://mountainlodge.lodgify.com/property/luxury-villa-2",
+      "https://mountainlodge.lodgify.com/property/luxury-villa-3",
+      "https://mountainlodge.lodgify.com/property/luxury-villa-4",
+      "https://mountainlodge.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "5153 Main St, City, State 10452",
+    "website": "https://www.mountainlodge.com",
+    "social_media": {
+      "facebook": "https://facebook.com/mountainlodge",
+      "instagram": "https://instagram.com/mountainlodge",
+      "twitter": "https://twitter.com/mountainlodge"
+    },
+    "phone": "+1-744-673-1381",
+    "email": "contact@mountainlodge.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "citylodge.lodgify.com",
+    "url": "https://citylodge.lodgify.com",
+    "property_count": 31,
+    "property_links": [
+      "https://citylodge.lodgify.com/property/luxury-villa-1",
+      "https://citylodge.lodgify.com/property/luxury-villa-2",
+      "https://citylodge.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "2100 Main St, City, State 56464",
+    "website": "https://www.citylodge.com",
+    "social_media": {
+      "facebook": "https://facebook.com/citylodge",
+      "instagram": "https://instagram.com/citylodge",
+      "twitter": "https://twitter.com/citylodge"
+    },
+    "phone": "+1-759-279-5075",
+    "email": "contact@citylodge.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "beachlodge.lodgify.com",
+    "url": "https://beachlodge.lodgify.com",
+    "property_count": 12,
+    "property_links": [
+      "https://beachlodge.lodgify.com/property/luxury-villa-1",
+      "https://beachlodge.lodgify.com/property/luxury-villa-2",
+      "https://beachlodge.lodgify.com/property/luxury-villa-3",
+      "https://beachlodge.lodgify.com/property/luxury-villa-4",
+      "https://beachlodge.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "5509 Main St, City, State 12181",
+    "website": "https://www.beachlodge.com",
+    "social_media": {
+      "facebook": "https://facebook.com/beachlodge",
+      "instagram": "https://instagram.com/beachlodge",
+      "twitter": "https://twitter.com/beachlodge"
+    },
+    "phone": "+1-240-533-9613",
+    "email": "contact@beachlodge.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "lakelodge.lodgify.com",
+    "url": "https://lakelodge.lodgify.com",
+    "property_count": 48,
+    "property_links": [
+      "https://lakelodge.lodgify.com/property/luxury-villa-1",
+      "https://lakelodge.lodgify.com/property/luxury-villa-2",
+      "https://lakelodge.lodgify.com/property/luxury-villa-3",
+      "https://lakelodge.lodgify.com/property/luxury-villa-4",
+      "https://lakelodge.lodgify.com/property/luxury-villa-5",
+      "https://lakelodge.lodgify.com/property/luxury-villa-6",
+      "https://lakelodge.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "5524 Main St, City, State 12129",
+    "website": "https://www.lakelodge.com",
+    "social_media": {
+      "facebook": "https://facebook.com/lakelodge",
+      "instagram": "https://instagram.com/lakelodge",
+      "twitter": "https://twitter.com/lakelodge"
+    },
+    "phone": "+1-487-454-9594",
+    "email": "contact@lakelodge.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "forestlodge.lodgify.com",
+    "url": "https://forestlodge.lodgify.com",
+    "property_count": 25,
+    "property_links": [
+      "https://forestlodge.lodgify.com/property/luxury-villa-1",
+      "https://forestlodge.lodgify.com/property/luxury-villa-2",
+      "https://forestlodge.lodgify.com/property/luxury-villa-3",
+      "https://forestlodge.lodgify.com/property/luxury-villa-4",
+      "https://forestlodge.lodgify.com/property/luxury-villa-5",
+      "https://forestlodge.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "7042 Main St, City, State 67562",
+    "website": "https://www.forestlodge.com",
+    "social_media": {
+      "facebook": "https://facebook.com/forestlodge",
+      "instagram": "https://instagram.com/forestlodge",
+      "twitter": "https://twitter.com/forestlodge"
+    },
+    "phone": "+1-525-484-8611",
+    "email": "contact@forestlodge.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "valleylodge.lodgify.com",
+    "url": "https://valleylodge.lodgify.com",
+    "property_count": 34,
+    "property_links": [
+      "https://valleylodge.lodgify.com/property/luxury-villa-1",
+      "https://valleylodge.lodgify.com/property/luxury-villa-2",
+      "https://valleylodge.lodgify.com/property/luxury-villa-3",
+      "https://valleylodge.lodgify.com/property/luxury-villa-4",
+      "https://valleylodge.lodgify.com/property/luxury-villa-5",
+      "https://valleylodge.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "1876 Main St, City, State 80653",
+    "website": "https://www.valleylodge.com",
+    "social_media": {
+      "facebook": "https://facebook.com/valleylodge",
+      "instagram": "https://instagram.com/valleylodge",
+      "twitter": "https://twitter.com/valleylodge"
+    },
+    "phone": "+1-525-950-5109",
+    "email": "contact@valleylodge.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "hilllodge.lodgify.com",
+    "url": "https://hilllodge.lodgify.com",
+    "property_count": 44,
+    "property_links": [
+      "https://hilllodge.lodgify.com/property/luxury-villa-1",
+      "https://hilllodge.lodgify.com/property/luxury-villa-2",
+      "https://hilllodge.lodgify.com/property/luxury-villa-3",
+      "https://hilllodge.lodgify.com/property/luxury-villa-4",
+      "https://hilllodge.lodgify.com/property/luxury-villa-5",
+      "https://hilllodge.lodgify.com/property/luxury-villa-6",
+      "https://hilllodge.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "2130 Main St, City, State 10906",
+    "website": "https://www.hilllodge.com",
+    "social_media": {
+      "facebook": "https://facebook.com/hilllodge",
+      "instagram": "https://instagram.com/hilllodge",
+      "twitter": "https://twitter.com/hilllodge"
+    },
+    "phone": "+1-458-739-8423",
+    "email": "contact@hilllodge.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "riverlodge.lodgify.com",
+    "url": "https://riverlodge.lodgify.com",
+    "property_count": 24,
+    "property_links": [
+      "https://riverlodge.lodgify.com/property/luxury-villa-1",
+      "https://riverlodge.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "5645 Main St, City, State 24575",
+    "website": "https://www.riverlodge.com",
+    "social_media": {
+      "facebook": "https://facebook.com/riverlodge",
+      "instagram": "https://instagram.com/riverlodge",
+      "twitter": "https://twitter.com/riverlodge"
+    },
+    "phone": "+1-247-749-7311",
+    "email": "contact@riverlodge.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "sunsetlodge.lodgify.com",
+    "url": "https://sunsetlodge.lodgify.com",
+    "property_count": 41,
+    "property_links": [
+      "https://sunsetlodge.lodgify.com/property/luxury-villa-1",
+      "https://sunsetlodge.lodgify.com/property/luxury-villa-2",
+      "https://sunsetlodge.lodgify.com/property/luxury-villa-3",
+      "https://sunsetlodge.lodgify.com/property/luxury-villa-4"
+    ],
+    "company_address": "2315 Main St, City, State 37275",
+    "website": "https://www.sunsetlodge.com",
+    "social_media": {
+      "facebook": "https://facebook.com/sunsetlodge",
+      "instagram": "https://instagram.com/sunsetlodge",
+      "twitter": "https://twitter.com/sunsetlodge"
+    },
+    "phone": "+1-593-207-9716",
+    "email": "contact@sunsetlodge.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "oceaninn.lodgify.com",
+    "url": "https://oceaninn.lodgify.com",
+    "property_count": 50,
+    "property_links": [
+      "https://oceaninn.lodgify.com/property/luxury-villa-1",
+      "https://oceaninn.lodgify.com/property/luxury-villa-2",
+      "https://oceaninn.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "7549 Main St, City, State 78894",
+    "website": "https://www.oceaninn.com",
+    "social_media": {
+      "facebook": "https://facebook.com/oceaninn",
+      "instagram": "https://instagram.com/oceaninn",
+      "twitter": "https://twitter.com/oceaninn"
+    },
+    "phone": "+1-231-940-9205",
+    "email": "contact@oceaninn.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "mountaininn.lodgify.com",
+    "url": "https://mountaininn.lodgify.com",
+    "property_count": 11,
+    "property_links": [
+      "https://mountaininn.lodgify.com/property/luxury-villa-1",
+      "https://mountaininn.lodgify.com/property/luxury-villa-2",
+      "https://mountaininn.lodgify.com/property/luxury-villa-3",
+      "https://mountaininn.lodgify.com/property/luxury-villa-4",
+      "https://mountaininn.lodgify.com/property/luxury-villa-5",
+      "https://mountaininn.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "863 Main St, City, State 88640",
+    "website": "https://www.mountaininn.com",
+    "social_media": {
+      "facebook": "https://facebook.com/mountaininn",
+      "instagram": "https://instagram.com/mountaininn",
+      "twitter": "https://twitter.com/mountaininn"
+    },
+    "phone": "+1-919-452-8744",
+    "email": "contact@mountaininn.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "cityinn.lodgify.com",
+    "url": "https://cityinn.lodgify.com",
+    "property_count": 11,
+    "property_links": [
+      "https://cityinn.lodgify.com/property/luxury-villa-1",
+      "https://cityinn.lodgify.com/property/luxury-villa-2",
+      "https://cityinn.lodgify.com/property/luxury-villa-3",
+      "https://cityinn.lodgify.com/property/luxury-villa-4",
+      "https://cityinn.lodgify.com/property/luxury-villa-5",
+      "https://cityinn.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "4342 Main St, City, State 85581",
+    "website": "https://www.cityinn.com",
+    "social_media": {
+      "facebook": "https://facebook.com/cityinn",
+      "instagram": "https://instagram.com/cityinn",
+      "twitter": "https://twitter.com/cityinn"
+    },
+    "phone": "+1-602-932-2132",
+    "email": "contact@cityinn.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "beachinn.lodgify.com",
+    "url": "https://beachinn.lodgify.com",
+    "property_count": 34,
+    "property_links": [
+      "https://beachinn.lodgify.com/property/luxury-villa-1",
+      "https://beachinn.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "6444 Main St, City, State 50295",
+    "website": "https://www.beachinn.com",
+    "social_media": {
+      "facebook": "https://facebook.com/beachinn",
+      "instagram": "https://instagram.com/beachinn",
+      "twitter": "https://twitter.com/beachinn"
+    },
+    "phone": "+1-457-884-6547",
+    "email": "contact@beachinn.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "lakeinn.lodgify.com",
+    "url": "https://lakeinn.lodgify.com",
+    "property_count": 15,
+    "property_links": [
+      "https://lakeinn.lodgify.com/property/luxury-villa-1",
+      "https://lakeinn.lodgify.com/property/luxury-villa-2",
+      "https://lakeinn.lodgify.com/property/luxury-villa-3",
+      "https://lakeinn.lodgify.com/property/luxury-villa-4"
+    ],
+    "company_address": "2126 Main St, City, State 87763",
+    "website": "https://www.lakeinn.com",
+    "social_media": {
+      "facebook": "https://facebook.com/lakeinn",
+      "instagram": "https://instagram.com/lakeinn",
+      "twitter": "https://twitter.com/lakeinn"
+    },
+    "phone": "+1-556-745-7451",
+    "email": "contact@lakeinn.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "forestinn.lodgify.com",
+    "url": "https://forestinn.lodgify.com",
+    "property_count": 49,
+    "property_links": [
+      "https://forestinn.lodgify.com/property/luxury-villa-1",
+      "https://forestinn.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "7614 Main St, City, State 80316",
+    "website": "https://www.forestinn.com",
+    "social_media": {
+      "facebook": "https://facebook.com/forestinn",
+      "instagram": "https://instagram.com/forestinn",
+      "twitter": "https://twitter.com/forestinn"
+    },
+    "phone": "+1-621-846-9225",
+    "email": "contact@forestinn.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "valleyinn.lodgify.com",
+    "url": "https://valleyinn.lodgify.com",
+    "property_count": 47,
+    "property_links": [
+      "https://valleyinn.lodgify.com/property/luxury-villa-1",
+      "https://valleyinn.lodgify.com/property/luxury-villa-2",
+      "https://valleyinn.lodgify.com/property/luxury-villa-3",
+      "https://valleyinn.lodgify.com/property/luxury-villa-4",
+      "https://valleyinn.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "1794 Main St, City, State 42362",
+    "website": "https://www.valleyinn.com",
+    "social_media": {
+      "facebook": "https://facebook.com/valleyinn",
+      "instagram": "https://instagram.com/valleyinn",
+      "twitter": "https://twitter.com/valleyinn"
+    },
+    "phone": "+1-898-890-6018",
+    "email": "contact@valleyinn.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "hillinn.lodgify.com",
+    "url": "https://hillinn.lodgify.com",
+    "property_count": 24,
+    "property_links": [
+      "https://hillinn.lodgify.com/property/luxury-villa-1",
+      "https://hillinn.lodgify.com/property/luxury-villa-2",
+      "https://hillinn.lodgify.com/property/luxury-villa-3",
+      "https://hillinn.lodgify.com/property/luxury-villa-4",
+      "https://hillinn.lodgify.com/property/luxury-villa-5",
+      "https://hillinn.lodgify.com/property/luxury-villa-6",
+      "https://hillinn.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "7134 Main St, City, State 68690",
+    "website": "https://www.hillinn.com",
+    "social_media": {
+      "facebook": "https://facebook.com/hillinn",
+      "instagram": "https://instagram.com/hillinn",
+      "twitter": "https://twitter.com/hillinn"
+    },
+    "phone": "+1-387-786-9732",
+    "email": "contact@hillinn.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "riverinn.lodgify.com",
+    "url": "https://riverinn.lodgify.com",
+    "property_count": 19,
+    "property_links": [
+      "https://riverinn.lodgify.com/property/luxury-villa-1",
+      "https://riverinn.lodgify.com/property/luxury-villa-2",
+      "https://riverinn.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "3689 Main St, City, State 35328",
+    "website": "https://www.riverinn.com",
+    "social_media": {
+      "facebook": "https://facebook.com/riverinn",
+      "instagram": "https://instagram.com/riverinn",
+      "twitter": "https://twitter.com/riverinn"
+    },
+    "phone": "+1-312-447-3009",
+    "email": "contact@riverinn.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "sunsetinn.lodgify.com",
+    "url": "https://sunsetinn.lodgify.com",
+    "property_count": 9,
+    "property_links": [
+      "https://sunsetinn.lodgify.com/property/luxury-villa-1",
+      "https://sunsetinn.lodgify.com/property/luxury-villa-2",
+      "https://sunsetinn.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "116 Main St, City, State 43112",
+    "website": "https://www.sunsetinn.com",
+    "social_media": {
+      "facebook": "https://facebook.com/sunsetinn",
+      "instagram": "https://instagram.com/sunsetinn",
+      "twitter": "https://twitter.com/sunsetinn"
+    },
+    "phone": "+1-835-711-7375",
+    "email": "contact@sunsetinn.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "oceansuites.lodgify.com",
+    "url": "https://oceansuites.lodgify.com",
+    "property_count": 24,
+    "property_links": [
+      "https://oceansuites.lodgify.com/property/luxury-villa-1",
+      "https://oceansuites.lodgify.com/property/luxury-villa-2",
+      "https://oceansuites.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "7846 Main St, City, State 10343",
+    "website": "https://www.oceansuites.com",
+    "social_media": {
+      "facebook": "https://facebook.com/oceansuites",
+      "instagram": "https://instagram.com/oceansuites",
+      "twitter": "https://twitter.com/oceansuites"
+    },
+    "phone": "+1-303-475-7941",
+    "email": "contact@oceansuites.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "mountainsuites.lodgify.com",
+    "url": "https://mountainsuites.lodgify.com",
+    "property_count": 30,
+    "property_links": [
+      "https://mountainsuites.lodgify.com/property/luxury-villa-1",
+      "https://mountainsuites.lodgify.com/property/luxury-villa-2",
+      "https://mountainsuites.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "7806 Main St, City, State 10764",
+    "website": "https://www.mountainsuites.com",
+    "social_media": {
+      "facebook": "https://facebook.com/mountainsuites",
+      "instagram": "https://instagram.com/mountainsuites",
+      "twitter": "https://twitter.com/mountainsuites"
+    },
+    "phone": "+1-456-631-4143",
+    "email": "contact@mountainsuites.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "citysuites.lodgify.com",
+    "url": "https://citysuites.lodgify.com",
+    "property_count": 6,
+    "property_links": [
+      "https://citysuites.lodgify.com/property/luxury-villa-1",
+      "https://citysuites.lodgify.com/property/luxury-villa-2",
+      "https://citysuites.lodgify.com/property/luxury-villa-3",
+      "https://citysuites.lodgify.com/property/luxury-villa-4",
+      "https://citysuites.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "773 Main St, City, State 58408",
+    "website": "https://www.citysuites.com",
+    "social_media": {
+      "facebook": "https://facebook.com/citysuites",
+      "instagram": "https://instagram.com/citysuites",
+      "twitter": "https://twitter.com/citysuites"
+    },
+    "phone": "+1-488-573-6451",
+    "email": "contact@citysuites.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "beachsuites.lodgify.com",
+    "url": "https://beachsuites.lodgify.com",
+    "property_count": 47,
+    "property_links": [
+      "https://beachsuites.lodgify.com/property/luxury-villa-1",
+      "https://beachsuites.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "2711 Main St, City, State 10173",
+    "website": "https://www.beachsuites.com",
+    "social_media": {
+      "facebook": "https://facebook.com/beachsuites",
+      "instagram": "https://instagram.com/beachsuites",
+      "twitter": "https://twitter.com/beachsuites"
+    },
+    "phone": "+1-456-256-1238",
+    "email": "contact@beachsuites.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "lakesuites.lodgify.com",
+    "url": "https://lakesuites.lodgify.com",
+    "property_count": 38,
+    "property_links": [
+      "https://lakesuites.lodgify.com/property/luxury-villa-1",
+      "https://lakesuites.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "8361 Main St, City, State 74244",
+    "website": "https://www.lakesuites.com",
+    "social_media": {
+      "facebook": "https://facebook.com/lakesuites",
+      "instagram": "https://instagram.com/lakesuites",
+      "twitter": "https://twitter.com/lakesuites"
+    },
+    "phone": "+1-945-971-2671",
+    "email": "contact@lakesuites.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "forestsuites.lodgify.com",
+    "url": "https://forestsuites.lodgify.com",
+    "property_count": 8,
+    "property_links": [
+      "https://forestsuites.lodgify.com/property/luxury-villa-1",
+      "https://forestsuites.lodgify.com/property/luxury-villa-2",
+      "https://forestsuites.lodgify.com/property/luxury-villa-3",
+      "https://forestsuites.lodgify.com/property/luxury-villa-4",
+      "https://forestsuites.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "7833 Main St, City, State 62171",
+    "website": "https://www.forestsuites.com",
+    "social_media": {
+      "facebook": "https://facebook.com/forestsuites",
+      "instagram": "https://instagram.com/forestsuites",
+      "twitter": "https://twitter.com/forestsuites"
+    },
+    "phone": "+1-777-242-1274",
+    "email": "contact@forestsuites.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "valleysuites.lodgify.com",
+    "url": "https://valleysuites.lodgify.com",
+    "property_count": 14,
+    "property_links": [
+      "https://valleysuites.lodgify.com/property/luxury-villa-1",
+      "https://valleysuites.lodgify.com/property/luxury-villa-2",
+      "https://valleysuites.lodgify.com/property/luxury-villa-3",
+      "https://valleysuites.lodgify.com/property/luxury-villa-4",
+      "https://valleysuites.lodgify.com/property/luxury-villa-5",
+      "https://valleysuites.lodgify.com/property/luxury-villa-6",
+      "https://valleysuites.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "7753 Main St, City, State 98160",
+    "website": "https://www.valleysuites.com",
+    "social_media": {
+      "facebook": "https://facebook.com/valleysuites",
+      "instagram": "https://instagram.com/valleysuites",
+      "twitter": "https://twitter.com/valleysuites"
+    },
+    "phone": "+1-649-660-4251",
+    "email": "contact@valleysuites.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "hillsuites.lodgify.com",
+    "url": "https://hillsuites.lodgify.com",
+    "property_count": 40,
+    "property_links": [
+      "https://hillsuites.lodgify.com/property/luxury-villa-1",
+      "https://hillsuites.lodgify.com/property/luxury-villa-2",
+      "https://hillsuites.lodgify.com/property/luxury-villa-3",
+      "https://hillsuites.lodgify.com/property/luxury-villa-4",
+      "https://hillsuites.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "8823 Main St, City, State 74652",
+    "website": "https://www.hillsuites.com",
+    "social_media": {
+      "facebook": "https://facebook.com/hillsuites",
+      "instagram": "https://instagram.com/hillsuites",
+      "twitter": "https://twitter.com/hillsuites"
+    },
+    "phone": "+1-236-386-5701",
+    "email": "contact@hillsuites.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "riversuites.lodgify.com",
+    "url": "https://riversuites.lodgify.com",
+    "property_count": 34,
+    "property_links": [
+      "https://riversuites.lodgify.com/property/luxury-villa-1",
+      "https://riversuites.lodgify.com/property/luxury-villa-2",
+      "https://riversuites.lodgify.com/property/luxury-villa-3",
+      "https://riversuites.lodgify.com/property/luxury-villa-4",
+      "https://riversuites.lodgify.com/property/luxury-villa-5",
+      "https://riversuites.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "5598 Main St, City, State 69034",
+    "website": "https://www.riversuites.com",
+    "social_media": {
+      "facebook": "https://facebook.com/riversuites",
+      "instagram": "https://instagram.com/riversuites",
+      "twitter": "https://twitter.com/riversuites"
+    },
+    "phone": "+1-397-851-4990",
+    "email": "contact@riversuites.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "sunsetsuites.lodgify.com",
+    "url": "https://sunsetsuites.lodgify.com",
+    "property_count": 46,
+    "property_links": [
+      "https://sunsetsuites.lodgify.com/property/luxury-villa-1",
+      "https://sunsetsuites.lodgify.com/property/luxury-villa-2",
+      "https://sunsetsuites.lodgify.com/property/luxury-villa-3",
+      "https://sunsetsuites.lodgify.com/property/luxury-villa-4",
+      "https://sunsetsuites.lodgify.com/property/luxury-villa-5",
+      "https://sunsetsuites.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "2981 Main St, City, State 10893",
+    "website": "https://www.sunsetsuites.com",
+    "social_media": {
+      "facebook": "https://facebook.com/sunsetsuites",
+      "instagram": "https://instagram.com/sunsetsuites",
+      "twitter": "https://twitter.com/sunsetsuites"
+    },
+    "phone": "+1-308-423-6686",
+    "email": "contact@sunsetsuites.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "oceanrentals.lodgify.com",
+    "url": "https://oceanrentals.lodgify.com",
+    "property_count": 42,
+    "property_links": [
+      "https://oceanrentals.lodgify.com/property/luxury-villa-1",
+      "https://oceanrentals.lodgify.com/property/luxury-villa-2",
+      "https://oceanrentals.lodgify.com/property/luxury-villa-3",
+      "https://oceanrentals.lodgify.com/property/luxury-villa-4",
+      "https://oceanrentals.lodgify.com/property/luxury-villa-5",
+      "https://oceanrentals.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "1547 Main St, City, State 92894",
+    "website": "https://www.oceanrentals.com",
+    "social_media": {
+      "facebook": "https://facebook.com/oceanrentals",
+      "instagram": "https://instagram.com/oceanrentals",
+      "twitter": "https://twitter.com/oceanrentals"
+    },
+    "phone": "+1-577-664-8102",
+    "email": "contact@oceanrentals.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "mountainrentals.lodgify.com",
+    "url": "https://mountainrentals.lodgify.com",
+    "property_count": 8,
+    "property_links": [
+      "https://mountainrentals.lodgify.com/property/luxury-villa-1",
+      "https://mountainrentals.lodgify.com/property/luxury-villa-2",
+      "https://mountainrentals.lodgify.com/property/luxury-villa-3",
+      "https://mountainrentals.lodgify.com/property/luxury-villa-4"
+    ],
+    "company_address": "6939 Main St, City, State 72434",
+    "website": "https://www.mountainrentals.com",
+    "social_media": {
+      "facebook": "https://facebook.com/mountainrentals",
+      "instagram": "https://instagram.com/mountainrentals",
+      "twitter": "https://twitter.com/mountainrentals"
+    },
+    "phone": "+1-796-306-1925",
+    "email": "contact@mountainrentals.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "cityrentals.lodgify.com",
+    "url": "https://cityrentals.lodgify.com",
+    "property_count": 15,
+    "property_links": [
+      "https://cityrentals.lodgify.com/property/luxury-villa-1",
+      "https://cityrentals.lodgify.com/property/luxury-villa-2",
+      "https://cityrentals.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "4688 Main St, City, State 90854",
+    "website": "https://www.cityrentals.com",
+    "social_media": {
+      "facebook": "https://facebook.com/cityrentals",
+      "instagram": "https://instagram.com/cityrentals",
+      "twitter": "https://twitter.com/cityrentals"
+    },
+    "phone": "+1-945-430-9484",
+    "email": "contact@cityrentals.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "beachrentals.lodgify.com",
+    "url": "https://beachrentals.lodgify.com",
+    "property_count": 43,
+    "property_links": [
+      "https://beachrentals.lodgify.com/property/luxury-villa-1",
+      "https://beachrentals.lodgify.com/property/luxury-villa-2",
+      "https://beachrentals.lodgify.com/property/luxury-villa-3",
+      "https://beachrentals.lodgify.com/property/luxury-villa-4",
+      "https://beachrentals.lodgify.com/property/luxury-villa-5",
+      "https://beachrentals.lodgify.com/property/luxury-villa-6",
+      "https://beachrentals.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "7678 Main St, City, State 78233",
+    "website": "https://www.beachrentals.com",
+    "social_media": {
+      "facebook": "https://facebook.com/beachrentals",
+      "instagram": "https://instagram.com/beachrentals",
+      "twitter": "https://twitter.com/beachrentals"
+    },
+    "phone": "+1-251-297-9147",
+    "email": "contact@beachrentals.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "lakerentals.lodgify.com",
+    "url": "https://lakerentals.lodgify.com",
+    "property_count": 35,
+    "property_links": [
+      "https://lakerentals.lodgify.com/property/luxury-villa-1",
+      "https://lakerentals.lodgify.com/property/luxury-villa-2",
+      "https://lakerentals.lodgify.com/property/luxury-villa-3",
+      "https://lakerentals.lodgify.com/property/luxury-villa-4",
+      "https://lakerentals.lodgify.com/property/luxury-villa-5",
+      "https://lakerentals.lodgify.com/property/luxury-villa-6",
+      "https://lakerentals.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "3258 Main St, City, State 90098",
+    "website": "https://www.lakerentals.com",
+    "social_media": {
+      "facebook": "https://facebook.com/lakerentals",
+      "instagram": "https://instagram.com/lakerentals",
+      "twitter": "https://twitter.com/lakerentals"
+    },
+    "phone": "+1-613-485-7694",
+    "email": "contact@lakerentals.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "forestrentals.lodgify.com",
+    "url": "https://forestrentals.lodgify.com",
+    "property_count": 13,
+    "property_links": [
+      "https://forestrentals.lodgify.com/property/luxury-villa-1",
+      "https://forestrentals.lodgify.com/property/luxury-villa-2",
+      "https://forestrentals.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "5148 Main St, City, State 83408",
+    "website": "https://www.forestrentals.com",
+    "social_media": {
+      "facebook": "https://facebook.com/forestrentals",
+      "instagram": "https://instagram.com/forestrentals",
+      "twitter": "https://twitter.com/forestrentals"
+    },
+    "phone": "+1-213-923-9250",
+    "email": "contact@forestrentals.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "valleyrentals.lodgify.com",
+    "url": "https://valleyrentals.lodgify.com",
+    "property_count": 11,
+    "property_links": [
+      "https://valleyrentals.lodgify.com/property/luxury-villa-1",
+      "https://valleyrentals.lodgify.com/property/luxury-villa-2",
+      "https://valleyrentals.lodgify.com/property/luxury-villa-3",
+      "https://valleyrentals.lodgify.com/property/luxury-villa-4"
+    ],
+    "company_address": "3901 Main St, City, State 16538",
+    "website": "https://www.valleyrentals.com",
+    "social_media": {
+      "facebook": "https://facebook.com/valleyrentals",
+      "instagram": "https://instagram.com/valleyrentals",
+      "twitter": "https://twitter.com/valleyrentals"
+    },
+    "phone": "+1-622-221-3175",
+    "email": "contact@valleyrentals.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "hillrentals.lodgify.com",
+    "url": "https://hillrentals.lodgify.com",
+    "property_count": 18,
+    "property_links": [
+      "https://hillrentals.lodgify.com/property/luxury-villa-1",
+      "https://hillrentals.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "330 Main St, City, State 26714",
+    "website": "https://www.hillrentals.com",
+    "social_media": {
+      "facebook": "https://facebook.com/hillrentals",
+      "instagram": "https://instagram.com/hillrentals",
+      "twitter": "https://twitter.com/hillrentals"
+    },
+    "phone": "+1-494-814-1516",
+    "email": "contact@hillrentals.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "riverrentals.lodgify.com",
+    "url": "https://riverrentals.lodgify.com",
+    "property_count": 7,
+    "property_links": [
+      "https://riverrentals.lodgify.com/property/luxury-villa-1",
+      "https://riverrentals.lodgify.com/property/luxury-villa-2",
+      "https://riverrentals.lodgify.com/property/luxury-villa-3",
+      "https://riverrentals.lodgify.com/property/luxury-villa-4",
+      "https://riverrentals.lodgify.com/property/luxury-villa-5",
+      "https://riverrentals.lodgify.com/property/luxury-villa-6",
+      "https://riverrentals.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "976 Main St, City, State 88895",
+    "website": "https://www.riverrentals.com",
+    "social_media": {
+      "facebook": "https://facebook.com/riverrentals",
+      "instagram": "https://instagram.com/riverrentals",
+      "twitter": "https://twitter.com/riverrentals"
+    },
+    "phone": "+1-263-686-3535",
+    "email": "contact@riverrentals.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "sunsetrentals.lodgify.com",
+    "url": "https://sunsetrentals.lodgify.com",
+    "property_count": 12,
+    "property_links": [
+      "https://sunsetrentals.lodgify.com/property/luxury-villa-1",
+      "https://sunsetrentals.lodgify.com/property/luxury-villa-2",
+      "https://sunsetrentals.lodgify.com/property/luxury-villa-3",
+      "https://sunsetrentals.lodgify.com/property/luxury-villa-4"
+    ],
+    "company_address": "4277 Main St, City, State 54755",
+    "website": "https://www.sunsetrentals.com",
+    "social_media": {
+      "facebook": "https://facebook.com/sunsetrentals",
+      "instagram": "https://instagram.com/sunsetrentals",
+      "twitter": "https://twitter.com/sunsetrentals"
+    },
+    "phone": "+1-861-310-6801",
+    "email": "contact@sunsetrentals.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "oceanproperties.lodgify.com",
+    "url": "https://oceanproperties.lodgify.com",
+    "property_count": 40,
+    "property_links": [
+      "https://oceanproperties.lodgify.com/property/luxury-villa-1",
+      "https://oceanproperties.lodgify.com/property/luxury-villa-2",
+      "https://oceanproperties.lodgify.com/property/luxury-villa-3",
+      "https://oceanproperties.lodgify.com/property/luxury-villa-4",
+      "https://oceanproperties.lodgify.com/property/luxury-villa-5",
+      "https://oceanproperties.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "6077 Main St, City, State 88899",
+    "website": "https://www.oceanproperties.com",
+    "social_media": {
+      "facebook": "https://facebook.com/oceanproperties",
+      "instagram": "https://instagram.com/oceanproperties",
+      "twitter": "https://twitter.com/oceanproperties"
+    },
+    "phone": "+1-697-255-9377",
+    "email": "contact@oceanproperties.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "mountainproperties.lodgify.com",
+    "url": "https://mountainproperties.lodgify.com",
+    "property_count": 13,
+    "property_links": [
+      "https://mountainproperties.lodgify.com/property/luxury-villa-1",
+      "https://mountainproperties.lodgify.com/property/luxury-villa-2",
+      "https://mountainproperties.lodgify.com/property/luxury-villa-3",
+      "https://mountainproperties.lodgify.com/property/luxury-villa-4",
+      "https://mountainproperties.lodgify.com/property/luxury-villa-5",
+      "https://mountainproperties.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "5784 Main St, City, State 46924",
+    "website": "https://www.mountainproperties.com",
+    "social_media": {
+      "facebook": "https://facebook.com/mountainproperties",
+      "instagram": "https://instagram.com/mountainproperties",
+      "twitter": "https://twitter.com/mountainproperties"
+    },
+    "phone": "+1-869-634-9187",
+    "email": "contact@mountainproperties.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "cityproperties.lodgify.com",
+    "url": "https://cityproperties.lodgify.com",
+    "property_count": 27,
+    "property_links": [
+      "https://cityproperties.lodgify.com/property/luxury-villa-1",
+      "https://cityproperties.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "1355 Main St, City, State 72765",
+    "website": "https://www.cityproperties.com",
+    "social_media": {
+      "facebook": "https://facebook.com/cityproperties",
+      "instagram": "https://instagram.com/cityproperties",
+      "twitter": "https://twitter.com/cityproperties"
+    },
+    "phone": "+1-454-829-1803",
+    "email": "contact@cityproperties.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "beachproperties.lodgify.com",
+    "url": "https://beachproperties.lodgify.com",
+    "property_count": 32,
+    "property_links": [
+      "https://beachproperties.lodgify.com/property/luxury-villa-1",
+      "https://beachproperties.lodgify.com/property/luxury-villa-2",
+      "https://beachproperties.lodgify.com/property/luxury-villa-3",
+      "https://beachproperties.lodgify.com/property/luxury-villa-4",
+      "https://beachproperties.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "5991 Main St, City, State 74144",
+    "website": "https://www.beachproperties.com",
+    "social_media": {
+      "facebook": "https://facebook.com/beachproperties",
+      "instagram": "https://instagram.com/beachproperties",
+      "twitter": "https://twitter.com/beachproperties"
+    },
+    "phone": "+1-443-447-4981",
+    "email": "contact@beachproperties.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "lakeproperties.lodgify.com",
+    "url": "https://lakeproperties.lodgify.com",
+    "property_count": 10,
+    "property_links": [
+      "https://lakeproperties.lodgify.com/property/luxury-villa-1",
+      "https://lakeproperties.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "5433 Main St, City, State 20674",
+    "website": "https://www.lakeproperties.com",
+    "social_media": {
+      "facebook": "https://facebook.com/lakeproperties",
+      "instagram": "https://instagram.com/lakeproperties",
+      "twitter": "https://twitter.com/lakeproperties"
+    },
+    "phone": "+1-676-343-1963",
+    "email": "contact@lakeproperties.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "forestproperties.lodgify.com",
+    "url": "https://forestproperties.lodgify.com",
+    "property_count": 11,
+    "property_links": [
+      "https://forestproperties.lodgify.com/property/luxury-villa-1",
+      "https://forestproperties.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "9795 Main St, City, State 22680",
+    "website": "https://www.forestproperties.com",
+    "social_media": {
+      "facebook": "https://facebook.com/forestproperties",
+      "instagram": "https://instagram.com/forestproperties",
+      "twitter": "https://twitter.com/forestproperties"
+    },
+    "phone": "+1-558-660-3407",
+    "email": "contact@forestproperties.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "valleyproperties.lodgify.com",
+    "url": "https://valleyproperties.lodgify.com",
+    "property_count": 35,
+    "property_links": [
+      "https://valleyproperties.lodgify.com/property/luxury-villa-1",
+      "https://valleyproperties.lodgify.com/property/luxury-villa-2",
+      "https://valleyproperties.lodgify.com/property/luxury-villa-3",
+      "https://valleyproperties.lodgify.com/property/luxury-villa-4",
+      "https://valleyproperties.lodgify.com/property/luxury-villa-5",
+      "https://valleyproperties.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "972 Main St, City, State 61402",
+    "website": "https://www.valleyproperties.com",
+    "social_media": {
+      "facebook": "https://facebook.com/valleyproperties",
+      "instagram": "https://instagram.com/valleyproperties",
+      "twitter": "https://twitter.com/valleyproperties"
+    },
+    "phone": "+1-415-565-7972",
+    "email": "contact@valleyproperties.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "hillproperties.lodgify.com",
+    "url": "https://hillproperties.lodgify.com",
+    "property_count": 12,
+    "property_links": [
+      "https://hillproperties.lodgify.com/property/luxury-villa-1",
+      "https://hillproperties.lodgify.com/property/luxury-villa-2",
+      "https://hillproperties.lodgify.com/property/luxury-villa-3",
+      "https://hillproperties.lodgify.com/property/luxury-villa-4",
+      "https://hillproperties.lodgify.com/property/luxury-villa-5",
+      "https://hillproperties.lodgify.com/property/luxury-villa-6",
+      "https://hillproperties.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "5149 Main St, City, State 97732",
+    "website": "https://www.hillproperties.com",
+    "social_media": {
+      "facebook": "https://facebook.com/hillproperties",
+      "instagram": "https://instagram.com/hillproperties",
+      "twitter": "https://twitter.com/hillproperties"
+    },
+    "phone": "+1-964-830-6895",
+    "email": "contact@hillproperties.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "riverproperties.lodgify.com",
+    "url": "https://riverproperties.lodgify.com",
+    "property_count": 36,
+    "property_links": [
+      "https://riverproperties.lodgify.com/property/luxury-villa-1",
+      "https://riverproperties.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "1470 Main St, City, State 79575",
+    "website": "https://www.riverproperties.com",
+    "social_media": {
+      "facebook": "https://facebook.com/riverproperties",
+      "instagram": "https://instagram.com/riverproperties",
+      "twitter": "https://twitter.com/riverproperties"
+    },
+    "phone": "+1-536-772-6592",
+    "email": "contact@riverproperties.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "sunsetproperties.lodgify.com",
+    "url": "https://sunsetproperties.lodgify.com",
+    "property_count": 30,
+    "property_links": [
+      "https://sunsetproperties.lodgify.com/property/luxury-villa-1",
+      "https://sunsetproperties.lodgify.com/property/luxury-villa-2",
+      "https://sunsetproperties.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "1852 Main St, City, State 88587",
+    "website": "https://www.sunsetproperties.com",
+    "social_media": {
+      "facebook": "https://facebook.com/sunsetproperties",
+      "instagram": "https://instagram.com/sunsetproperties",
+      "twitter": "https://twitter.com/sunsetproperties"
+    },
+    "phone": "+1-573-638-7257",
+    "email": "contact@sunsetproperties.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "oceanvacation.lodgify.com",
+    "url": "https://oceanvacation.lodgify.com",
+    "property_count": 43,
+    "property_links": [
+      "https://oceanvacation.lodgify.com/property/luxury-villa-1",
+      "https://oceanvacation.lodgify.com/property/luxury-villa-2",
+      "https://oceanvacation.lodgify.com/property/luxury-villa-3",
+      "https://oceanvacation.lodgify.com/property/luxury-villa-4",
+      "https://oceanvacation.lodgify.com/property/luxury-villa-5",
+      "https://oceanvacation.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "9059 Main St, City, State 11167",
+    "website": "https://www.oceanvacation.com",
+    "social_media": {
+      "facebook": "https://facebook.com/oceanvacation",
+      "instagram": "https://instagram.com/oceanvacation",
+      "twitter": "https://twitter.com/oceanvacation"
+    },
+    "phone": "+1-713-685-1047",
+    "email": "contact@oceanvacation.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "mountainvacation.lodgify.com",
+    "url": "https://mountainvacation.lodgify.com",
+    "property_count": 7,
+    "property_links": [
+      "https://mountainvacation.lodgify.com/property/luxury-villa-1",
+      "https://mountainvacation.lodgify.com/property/luxury-villa-2",
+      "https://mountainvacation.lodgify.com/property/luxury-villa-3",
+      "https://mountainvacation.lodgify.com/property/luxury-villa-4",
+      "https://mountainvacation.lodgify.com/property/luxury-villa-5",
+      "https://mountainvacation.lodgify.com/property/luxury-villa-6",
+      "https://mountainvacation.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "4828 Main St, City, State 72570",
+    "website": "https://www.mountainvacation.com",
+    "social_media": {
+      "facebook": "https://facebook.com/mountainvacation",
+      "instagram": "https://instagram.com/mountainvacation",
+      "twitter": "https://twitter.com/mountainvacation"
+    },
+    "phone": "+1-956-702-2794",
+    "email": "contact@mountainvacation.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "cityvacation.lodgify.com",
+    "url": "https://cityvacation.lodgify.com",
+    "property_count": 34,
+    "property_links": [
+      "https://cityvacation.lodgify.com/property/luxury-villa-1",
+      "https://cityvacation.lodgify.com/property/luxury-villa-2",
+      "https://cityvacation.lodgify.com/property/luxury-villa-3",
+      "https://cityvacation.lodgify.com/property/luxury-villa-4",
+      "https://cityvacation.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "701 Main St, City, State 75150",
+    "website": "https://www.cityvacation.com",
+    "social_media": {
+      "facebook": "https://facebook.com/cityvacation",
+      "instagram": "https://instagram.com/cityvacation",
+      "twitter": "https://twitter.com/cityvacation"
+    },
+    "phone": "+1-611-223-5196",
+    "email": "contact@cityvacation.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "beachvacation.lodgify.com",
+    "url": "https://beachvacation.lodgify.com",
+    "property_count": 35,
+    "property_links": [
+      "https://beachvacation.lodgify.com/property/luxury-villa-1",
+      "https://beachvacation.lodgify.com/property/luxury-villa-2",
+      "https://beachvacation.lodgify.com/property/luxury-villa-3",
+      "https://beachvacation.lodgify.com/property/luxury-villa-4",
+      "https://beachvacation.lodgify.com/property/luxury-villa-5",
+      "https://beachvacation.lodgify.com/property/luxury-villa-6",
+      "https://beachvacation.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "8091 Main St, City, State 20976",
+    "website": "https://www.beachvacation.com",
+    "social_media": {
+      "facebook": "https://facebook.com/beachvacation",
+      "instagram": "https://instagram.com/beachvacation",
+      "twitter": "https://twitter.com/beachvacation"
+    },
+    "phone": "+1-985-484-5421",
+    "email": "contact@beachvacation.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "lakevacation.lodgify.com",
+    "url": "https://lakevacation.lodgify.com",
+    "property_count": 42,
+    "property_links": [
+      "https://lakevacation.lodgify.com/property/luxury-villa-1",
+      "https://lakevacation.lodgify.com/property/luxury-villa-2",
+      "https://lakevacation.lodgify.com/property/luxury-villa-3",
+      "https://lakevacation.lodgify.com/property/luxury-villa-4",
+      "https://lakevacation.lodgify.com/property/luxury-villa-5",
+      "https://lakevacation.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "3171 Main St, City, State 41475",
+    "website": "https://www.lakevacation.com",
+    "social_media": {
+      "facebook": "https://facebook.com/lakevacation",
+      "instagram": "https://instagram.com/lakevacation",
+      "twitter": "https://twitter.com/lakevacation"
+    },
+    "phone": "+1-836-803-5008",
+    "email": "contact@lakevacation.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "forestvacation.lodgify.com",
+    "url": "https://forestvacation.lodgify.com",
+    "property_count": 25,
+    "property_links": [
+      "https://forestvacation.lodgify.com/property/luxury-villa-1",
+      "https://forestvacation.lodgify.com/property/luxury-villa-2",
+      "https://forestvacation.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "3990 Main St, City, State 81894",
+    "website": "https://www.forestvacation.com",
+    "social_media": {
+      "facebook": "https://facebook.com/forestvacation",
+      "instagram": "https://instagram.com/forestvacation",
+      "twitter": "https://twitter.com/forestvacation"
+    },
+    "phone": "+1-714-927-3731",
+    "email": "contact@forestvacation.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "valleyvacation.lodgify.com",
+    "url": "https://valleyvacation.lodgify.com",
+    "property_count": 47,
+    "property_links": [
+      "https://valleyvacation.lodgify.com/property/luxury-villa-1",
+      "https://valleyvacation.lodgify.com/property/luxury-villa-2",
+      "https://valleyvacation.lodgify.com/property/luxury-villa-3",
+      "https://valleyvacation.lodgify.com/property/luxury-villa-4",
+      "https://valleyvacation.lodgify.com/property/luxury-villa-5",
+      "https://valleyvacation.lodgify.com/property/luxury-villa-6",
+      "https://valleyvacation.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "9723 Main St, City, State 52623",
+    "website": "https://www.valleyvacation.com",
+    "social_media": {
+      "facebook": "https://facebook.com/valleyvacation",
+      "instagram": "https://instagram.com/valleyvacation",
+      "twitter": "https://twitter.com/valleyvacation"
+    },
+    "phone": "+1-248-522-7549",
+    "email": "contact@valleyvacation.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "hillvacation.lodgify.com",
+    "url": "https://hillvacation.lodgify.com",
+    "property_count": 33,
+    "property_links": [
+      "https://hillvacation.lodgify.com/property/luxury-villa-1",
+      "https://hillvacation.lodgify.com/property/luxury-villa-2",
+      "https://hillvacation.lodgify.com/property/luxury-villa-3",
+      "https://hillvacation.lodgify.com/property/luxury-villa-4",
+      "https://hillvacation.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "2300 Main St, City, State 41925",
+    "website": "https://www.hillvacation.com",
+    "social_media": {
+      "facebook": "https://facebook.com/hillvacation",
+      "instagram": "https://instagram.com/hillvacation",
+      "twitter": "https://twitter.com/hillvacation"
+    },
+    "phone": "+1-470-262-1621",
+    "email": "contact@hillvacation.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "rivervacation.lodgify.com",
+    "url": "https://rivervacation.lodgify.com",
+    "property_count": 19,
+    "property_links": [
+      "https://rivervacation.lodgify.com/property/luxury-villa-1",
+      "https://rivervacation.lodgify.com/property/luxury-villa-2",
+      "https://rivervacation.lodgify.com/property/luxury-villa-3",
+      "https://rivervacation.lodgify.com/property/luxury-villa-4"
+    ],
+    "company_address": "8166 Main St, City, State 63068",
+    "website": "https://www.rivervacation.com",
+    "social_media": {
+      "facebook": "https://facebook.com/rivervacation",
+      "instagram": "https://instagram.com/rivervacation",
+      "twitter": "https://twitter.com/rivervacation"
+    },
+    "phone": "+1-264-731-6019",
+    "email": "contact@rivervacation.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "sunsetvacation.lodgify.com",
+    "url": "https://sunsetvacation.lodgify.com",
+    "property_count": 18,
+    "property_links": [
+      "https://sunsetvacation.lodgify.com/property/luxury-villa-1",
+      "https://sunsetvacation.lodgify.com/property/luxury-villa-2",
+      "https://sunsetvacation.lodgify.com/property/luxury-villa-3",
+      "https://sunsetvacation.lodgify.com/property/luxury-villa-4",
+      "https://sunsetvacation.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "6887 Main St, City, State 16370",
+    "website": "https://www.sunsetvacation.com",
+    "social_media": {
+      "facebook": "https://facebook.com/sunsetvacation",
+      "instagram": "https://instagram.com/sunsetvacation",
+      "twitter": "https://twitter.com/sunsetvacation"
+    },
+    "phone": "+1-944-998-8546",
+    "email": "contact@sunsetvacation.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property080.lodgify.com",
+    "url": "https://property080.lodgify.com",
+    "property_count": 19,
+    "property_links": [
+      "https://property080.lodgify.com/property/luxury-villa-1",
+      "https://property080.lodgify.com/property/luxury-villa-2",
+      "https://property080.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "5664 Main St, City, State 60492",
+    "website": "https://www.property080.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property080",
+      "instagram": "https://instagram.com/property080",
+      "twitter": "https://twitter.com/property080"
+    },
+    "phone": "+1-582-250-4171",
+    "email": "contact@property080.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property081.lodgify.com",
+    "url": "https://property081.lodgify.com",
+    "property_count": 30,
+    "property_links": [
+      "https://property081.lodgify.com/property/luxury-villa-1",
+      "https://property081.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "2642 Main St, City, State 44967",
+    "website": "https://www.property081.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property081",
+      "instagram": "https://instagram.com/property081",
+      "twitter": "https://twitter.com/property081"
+    },
+    "phone": "+1-431-584-9304",
+    "email": "contact@property081.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property082.lodgify.com",
+    "url": "https://property082.lodgify.com",
+    "property_count": 40,
+    "property_links": [
+      "https://property082.lodgify.com/property/luxury-villa-1",
+      "https://property082.lodgify.com/property/luxury-villa-2",
+      "https://property082.lodgify.com/property/luxury-villa-3",
+      "https://property082.lodgify.com/property/luxury-villa-4",
+      "https://property082.lodgify.com/property/luxury-villa-5",
+      "https://property082.lodgify.com/property/luxury-villa-6"
+    ],
+    "company_address": "3964 Main St, City, State 37536",
+    "website": "https://www.property082.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property082",
+      "instagram": "https://instagram.com/property082",
+      "twitter": "https://twitter.com/property082"
+    },
+    "phone": "+1-246-457-7872",
+    "email": "contact@property082.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property083.lodgify.com",
+    "url": "https://property083.lodgify.com",
+    "property_count": 39,
+    "property_links": [
+      "https://property083.lodgify.com/property/luxury-villa-1",
+      "https://property083.lodgify.com/property/luxury-villa-2",
+      "https://property083.lodgify.com/property/luxury-villa-3",
+      "https://property083.lodgify.com/property/luxury-villa-4",
+      "https://property083.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "3912 Main St, City, State 12863",
+    "website": "https://www.property083.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property083",
+      "instagram": "https://instagram.com/property083",
+      "twitter": "https://twitter.com/property083"
+    },
+    "phone": "+1-714-202-9238",
+    "email": "contact@property083.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property084.lodgify.com",
+    "url": "https://property084.lodgify.com",
+    "property_count": 48,
+    "property_links": [
+      "https://property084.lodgify.com/property/luxury-villa-1",
+      "https://property084.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "3238 Main St, City, State 16400",
+    "website": "https://www.property084.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property084",
+      "instagram": "https://instagram.com/property084",
+      "twitter": "https://twitter.com/property084"
+    },
+    "phone": "+1-256-800-3252",
+    "email": "contact@property084.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property085.lodgify.com",
+    "url": "https://property085.lodgify.com",
+    "property_count": 24,
+    "property_links": [
+      "https://property085.lodgify.com/property/luxury-villa-1",
+      "https://property085.lodgify.com/property/luxury-villa-2",
+      "https://property085.lodgify.com/property/luxury-villa-3",
+      "https://property085.lodgify.com/property/luxury-villa-4"
+    ],
+    "company_address": "141 Main St, City, State 24148",
+    "website": "https://www.property085.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property085",
+      "instagram": "https://instagram.com/property085",
+      "twitter": "https://twitter.com/property085"
+    },
+    "phone": "+1-799-572-5120",
+    "email": "contact@property085.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property086.lodgify.com",
+    "url": "https://property086.lodgify.com",
+    "property_count": 28,
+    "property_links": [
+      "https://property086.lodgify.com/property/luxury-villa-1",
+      "https://property086.lodgify.com/property/luxury-villa-2"
+    ],
+    "company_address": "8292 Main St, City, State 15053",
+    "website": "https://www.property086.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property086",
+      "instagram": "https://instagram.com/property086",
+      "twitter": "https://twitter.com/property086"
+    },
+    "phone": "+1-453-600-9663",
+    "email": "contact@property086.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property087.lodgify.com",
+    "url": "https://property087.lodgify.com",
+    "property_count": 49,
+    "property_links": [
+      "https://property087.lodgify.com/property/luxury-villa-1",
+      "https://property087.lodgify.com/property/luxury-villa-2",
+      "https://property087.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "3377 Main St, City, State 73477",
+    "website": "https://www.property087.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property087",
+      "instagram": "https://instagram.com/property087",
+      "twitter": "https://twitter.com/property087"
+    },
+    "phone": "+1-486-707-1586",
+    "email": "contact@property087.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property088.lodgify.com",
+    "url": "https://property088.lodgify.com",
+    "property_count": 16,
+    "property_links": [
+      "https://property088.lodgify.com/property/luxury-villa-1",
+      "https://property088.lodgify.com/property/luxury-villa-2",
+      "https://property088.lodgify.com/property/luxury-villa-3",
+      "https://property088.lodgify.com/property/luxury-villa-4",
+      "https://property088.lodgify.com/property/luxury-villa-5",
+      "https://property088.lodgify.com/property/luxury-villa-6",
+      "https://property088.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "4356 Main St, City, State 27547",
+    "website": "https://www.property088.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property088",
+      "instagram": "https://instagram.com/property088",
+      "twitter": "https://twitter.com/property088"
+    },
+    "phone": "+1-650-407-4179",
+    "email": "contact@property088.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property089.lodgify.com",
+    "url": "https://property089.lodgify.com",
+    "property_count": 32,
+    "property_links": [
+      "https://property089.lodgify.com/property/luxury-villa-1",
+      "https://property089.lodgify.com/property/luxury-villa-2",
+      "https://property089.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "4318 Main St, City, State 61544",
+    "website": "https://www.property089.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property089",
+      "instagram": "https://instagram.com/property089",
+      "twitter": "https://twitter.com/property089"
+    },
+    "phone": "+1-925-240-2978",
+    "email": "contact@property089.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property090.lodgify.com",
+    "url": "https://property090.lodgify.com",
+    "property_count": 18,
+    "property_links": [
+      "https://property090.lodgify.com/property/luxury-villa-1",
+      "https://property090.lodgify.com/property/luxury-villa-2",
+      "https://property090.lodgify.com/property/luxury-villa-3",
+      "https://property090.lodgify.com/property/luxury-villa-4",
+      "https://property090.lodgify.com/property/luxury-villa-5",
+      "https://property090.lodgify.com/property/luxury-villa-6",
+      "https://property090.lodgify.com/property/luxury-villa-7"
+    ],
+    "company_address": "1218 Main St, City, State 78397",
+    "website": "https://www.property090.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property090",
+      "instagram": "https://instagram.com/property090",
+      "twitter": "https://twitter.com/property090"
+    },
+    "phone": "+1-923-263-9794",
+    "email": "contact@property090.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property091.lodgify.com",
+    "url": "https://property091.lodgify.com",
+    "property_count": 28,
+    "property_links": [
+      "https://property091.lodgify.com/property/luxury-villa-1",
+      "https://property091.lodgify.com/property/luxury-villa-2",
+      "https://property091.lodgify.com/property/luxury-villa-3",
+      "https://property091.lodgify.com/property/luxury-villa-4"
+    ],
+    "company_address": "7626 Main St, City, State 14021",
+    "website": "https://www.property091.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property091",
+      "instagram": "https://instagram.com/property091",
+      "twitter": "https://twitter.com/property091"
+    },
+    "phone": "+1-349-504-4852",
+    "email": "contact@property091.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property092.lodgify.com",
+    "url": "https://property092.lodgify.com",
+    "property_count": 43,
+    "property_links": [
+      "https://property092.lodgify.com/property/luxury-villa-1",
+      "https://property092.lodgify.com/property/luxury-villa-2",
+      "https://property092.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "4207 Main St, City, State 57082",
+    "website": "https://www.property092.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property092",
+      "instagram": "https://instagram.com/property092",
+      "twitter": "https://twitter.com/property092"
+    },
+    "phone": "+1-572-294-8670",
+    "email": "contact@property092.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property093.lodgify.com",
+    "url": "https://property093.lodgify.com",
+    "property_count": 8,
+    "property_links": [
+      "https://property093.lodgify.com/property/luxury-villa-1",
+      "https://property093.lodgify.com/property/luxury-villa-2",
+      "https://property093.lodgify.com/property/luxury-villa-3",
+      "https://property093.lodgify.com/property/luxury-villa-4"
+    ],
+    "company_address": "2297 Main St, City, State 59548",
+    "website": "https://www.property093.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property093",
+      "instagram": "https://instagram.com/property093",
+      "twitter": "https://twitter.com/property093"
+    },
+    "phone": "+1-200-835-6340",
+    "email": "contact@property093.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property094.lodgify.com",
+    "url": "https://property094.lodgify.com",
+    "property_count": 19,
+    "property_links": [
+      "https://property094.lodgify.com/property/luxury-villa-1",
+      "https://property094.lodgify.com/property/luxury-villa-2",
+      "https://property094.lodgify.com/property/luxury-villa-3",
+      "https://property094.lodgify.com/property/luxury-villa-4",
+      "https://property094.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "5130 Main St, City, State 87101",
+    "website": "https://www.property094.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property094",
+      "instagram": "https://instagram.com/property094",
+      "twitter": "https://twitter.com/property094"
+    },
+    "phone": "+1-686-613-8512",
+    "email": "contact@property094.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property095.lodgify.com",
+    "url": "https://property095.lodgify.com",
+    "property_count": 28,
+    "property_links": [
+      "https://property095.lodgify.com/property/luxury-villa-1",
+      "https://property095.lodgify.com/property/luxury-villa-2",
+      "https://property095.lodgify.com/property/luxury-villa-3",
+      "https://property095.lodgify.com/property/luxury-villa-4",
+      "https://property095.lodgify.com/property/luxury-villa-5"
+    ],
+    "company_address": "3377 Main St, City, State 93441",
+    "website": "https://www.property095.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property095",
+      "instagram": "https://instagram.com/property095",
+      "twitter": "https://twitter.com/property095"
+    },
+    "phone": "+1-820-610-2354",
+    "email": "contact@property095.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  },
+  {
+    "subdomain": "property096.lodgify.com",
+    "url": "https://property096.lodgify.com",
+    "property_count": 41,
+    "property_links": [
+      "https://property096.lodgify.com/property/luxury-villa-1",
+      "https://property096.lodgify.com/property/luxury-villa-2",
+      "https://property096.lodgify.com/property/luxury-villa-3"
+    ],
+    "company_address": "1550 Main St, City, State 83126",
+    "website": "https://www.property096.com",
+    "social_media": {
+      "facebook": "https://facebook.com/property096",
+      "instagram": "https://instagram.com/property096",
+      "twitter": "https://twitter.com/property096"
+    },
+    "phone": "+1-661-355-8260",
+    "email": "contact@property096.com",
+    "additional_info": {
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation_policy": "Free cancellation up to 24 hours before check-in"
+    }
+  }
+]
