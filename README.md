@@ -8,16 +8,12 @@ The project fulfills the following tasks:fy Scraper Challenge
 
 Este projeto implementa uma solução completa para o desafio de scraping da plataforma Lodgify, realizando descoberta de subdomínios, coleta de dados de lead generation e conversão para formatos úteis.
 
-## Objetivos
-
-O projeto atende às seguintes tarefas:
-
-### 1. Lodgify Subdomain Discovery
+### 1 - Lodgify Subdomain Discovery
 - Discovers subdomains from the lodgify.com platform
 - Generates JSON file with list of found subdomains
-- **Output**: `discovered_subdomains.json`
+- **Output**: `jsons/discovered_subdomains.json`
 
-### 2. Lead Generation Data Scraping
+### 2 - Lead Generation Data Scraping
 - Collects data from 100 subdomains for lead generation
 - Extracts information such as:
   - Property counts
@@ -28,17 +24,16 @@ O projeto atende às seguintes tarefas:
   - Phone numbers
   - Emails
   - Additional information (amenities, policies, etc.)
-- **Output**: `scraped_data.json`
+- **Output**: `jsons/scraped_data.json`
 
-### 3. JSON to CSV Conversion
+### 3 - JSON to CSV Conversion
 - Converts structured JSON data to readable CSV format
 - Flattens nested data for easy importation
-- **Output**: `scraped_data.csv`
+- **Output**: `jsons/scraped_data.csv`
 
 
 ## BONUS 4 - Country Categorization
 
-### Country Categorization Example
 
 Records were automatically analyzed and categorized based on address patterns:
 
@@ -46,7 +41,7 @@ Records were automatically analyzed and categorized based on address patterns:
 |---------|---------|------------------|---------|
 | United States | 100 | `State + ZIP Code` | "249 Main St, City, State 56264" |
 
-### File: `categorized_by_country.csv`
+### File: `jsons/categorized_by_country.csv`
 
 ```csv
 country,subdomain,url,property_count,company_address,website,phone,email
@@ -164,7 +159,7 @@ The script will automatically execute all 5 tasks in sequence and generate the o
 
 ##  Data Structure
 
-### Subdomains JSON (`discovered_subdomains.json`)
+### Subdomains JSON (`jsons/discovered_subdomains.json`)
 ```json
 [
   "bandycanyon.lodgify.com",
@@ -174,7 +169,7 @@ The script will automatically execute all 5 tasks in sequence and generate the o
 ]
 ```
 
-### Collected Data JSON (`scraped_data.json`)
+### Collected Data JSON (`jsons/scraped_data.json`)
 ```json
 [
   {
@@ -200,7 +195,7 @@ The script will automatically execute all 5 tasks in sequence and generate the o
 ]
 ```
 
-### CSV (`scraped_data.csv`)
+### CSV (`jsons/scraped_data.csv`)
 The CSV file contains flattened columns for easy import:
 - `subdomain`, `url`, `property_count`
 - `company_address`, `website`, `phone`, `email`
