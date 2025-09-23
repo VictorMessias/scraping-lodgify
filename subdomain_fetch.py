@@ -22,7 +22,7 @@ def discover_subdomains() -> List[str]:
     """
     Discover subdomains of lodgify.com
     """
-    logger.info("Iniciando descoberta de subdomínios para lodgify.com")
+    logger.info("Initiating subdomain discovery...")
         
     # Common subdomain prefixes
     common_subdomains = [

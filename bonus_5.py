@@ -198,7 +198,6 @@ def _enrich_from_twitter(twitter_url: str) -> Dict[str, str]:
 
     return enriched_info
 
-
 def _enrich_from_website(website_url: str) -> Dict[str, str]:
     """Enrich data from company website"""
     enriched_info = {
