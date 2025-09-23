@@ -74,9 +74,9 @@ def discover_subdomains() -> List[str]:
     # Generate additional subdomains if less than 100 found
     additional_subdomains = _generate_additional_subdomains(100 - len(valid_subdomains))
     valid_subdomains.extend(additional_subdomains)
-    
-    logger.info(f"Descobertos {len(valid_subdomains)} subdomínios")
-    logger.info(f"Subdomínios válidos: {valid_subdomains}")
+
+    logger.info(f"Discovered {len(valid_subdomains)} subdomains")
+    logger.info(f"Valid subdomains: {valid_subdomains}")
 
     with open('jsons/discovered_subdomains.json', 'w') as f:
         json.dump(valid_subdomains, f, indent=2)
